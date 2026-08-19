@@ -2,7 +2,6 @@
 
 AI-powered quality inspection built for Indian MSMEs
 
-Team Catalyst — Vidushi, Swarad, Mayur
 Submitted for the Elixir Case Competition 2026 (Startup India x MarkSoc, Shaheed Bhagat Singh College)
 
 Case prompt: What is the most important AI intervention in manufacturing that will create massive ripple effects on the Indian economy?
